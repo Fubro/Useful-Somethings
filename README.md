@@ -1,5 +1,5 @@
 # 🙌简单介绍 (Introduction)
-- 小白一个😀，喜欢整理收集，所以，做了一些收集，喜欢的朋友点个赞👍，哈哈
+- 小白一个😀，喜欢整理收集，内容有壁纸,script,.conf...科学学习等，喜欢的朋友点个赞👍，哈哈
 
 ## 😘一些壁纸展示(Wallpaper display)
 - ![11](https://github.com/Fubro/by-Some-things/blob/master/jpg/11.JPG)              ![10](https://github.com/Fubro/by-Some-things/blob/master/jpg/10.JPG)              ![12](https://github.com/Fubro/by-Some-things/blob/master/jpg/12.JPG)
