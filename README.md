@@ -6,9 +6,10 @@
 
 
 
+### 😍特别感谢（Thanks）
+- 要感谢的大佬实在太多了，就不一一@。。。了，敬请谅解。。。
 
-
-### 😢注意事项(Note)
+#### 😢注意事项(Note)
 
 - 本repo所有东西均来自网络收集，不得商业使用，仅供学习交流，**违者后果自负**。
 - This repo all things from the network collection, not commercial use, only for learning and communication, the consequences of the violator.
