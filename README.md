@@ -10,7 +10,7 @@
 
 ### 😢注意事项(Note)
 
-- 本repo所以东西来自网络收集，不得商业使用，仅供学习交流，**违者后果自负**。
+- 本repo所有东西均来自网络收集，不得商业使用，仅供学习交流，**违者后果自负**。
 - This repo all things from the network collection, not commercial use, only for learning and communication, the consequences of the violator.
 
 
